@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;Nice+to++you!&center=true&size=30">
   </a>
 </h1>
 
@@ -21,7 +21,9 @@ I had my Masters in Biotechnology but after my PhD admission in Bioinformatics a
 src="https://img.shields.io/twitter/follow/azka_saleem11?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/AzkaSaleem" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AzkaSaleem?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
+ <a href="https://github.com/AzkaSaleem/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/AzkaSaleem-profile-views"/></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
