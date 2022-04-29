@@ -22,15 +22,6 @@ src="https://img.shields.io/twitter/follow/azka_saleem11?logo=twitter&style=for-
 /></a><a href="https://www.github.com/AzkaSaleem" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AzkaSaleem?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azkasaleem&label=Profile%20views&color=0e75b6&style=flat" alt="azkasaleem" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azkasaleem" alt="azkasaleem" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -54,4 +45,4 @@ src="https://img.shields.io/github/followers/AzkaSaleem?logo=github&style=for-th
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/AzkaSaleem/AssignmentRepo" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AzkaSaleem&repo=AssignmentRepo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/AzkaSaleem/Python-for-Datascience-practice" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AzkaSaleem&repo=AssignmentRepo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
