@@ -7,7 +7,7 @@
 It's Azka Saleem
 ============================
 
-PhD. Bioinformatics | Intrested in DataScience & ML
+Intrested in Bioinformatics, DataScience & ML
 ---------------------------------------------------
 
 I had my Masters in Biotechnology and developed my interest in Data science, Machine Learning and Deep Learning. I'm Learning new things daily and Aims to put bigger things through merging them all.
