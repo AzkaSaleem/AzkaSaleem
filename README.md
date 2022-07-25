@@ -10,7 +10,7 @@ It's Azka Saleem
 PhD. Bioinformatics | Intrested in DataScience & ML
 ---------------------------------------------------
 
-I had my Masters in Biotechnology but after my PhD admission in Bioinformatics at University of Agriculture and Forestry, China, I developed my interest in Data science, Machine Learning and Deep Learning. I'm Learning new things daily and Aims to put bigger things through merging them all.
+I had my Masters in Biotechnology and developed my interest in Data science, Machine Learning and Deep Learning. I'm Learning new things daily and Aims to put bigger things through merging them all.
 
 * 🌍  I'm based in Pakistan currently.
 * ✉️  You can contact me at [azkasaleem527@gmail.com](mailto:azkasaleem527@gmail.com)
